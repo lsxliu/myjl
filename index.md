@@ -388,7 +388,7 @@
 				<span>
 					<span class="companName">东莞宏兴鞋厂</span>
 				</span>
-				<span>（1993-12 ～ 1997-12）</span>
+				<span>（1995-12 ～ 1997-12）</span>
 			</td>
 		</tr>
 		<tr class="row">
@@ -432,7 +432,7 @@
 				<span>
 					<span class="companName">河南洛阳744厂</span>
 				</span>
-				<span>（1991-09 ～ 1993-12）</span>
+				<span>（1991-09 ～ 1995-12）</span>
 			</td>
 		</tr>
 		<tr class="row">
